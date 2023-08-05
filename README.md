@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Pinardi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [All School](www.allschool.com.ar)
+- 🔭 I’m currently working on [All School](https://allschool.com.ar/)
 
-- 👨‍💻 All of my projects are available at [www.juanpinardi.com](www.juanpinardi.com)
+- 👨‍💻 All of my projects are available at [www.juanpinardi.com](https://juanpinardi.com/)
 
 - 📫 How to reach me **juann.pinardii@gmail.com**
 
